@@ -3,7 +3,7 @@ a= -1
 b=random.randint(1,99)
 c=1
 z=99
-while a!=b:
+while a!=k:
     print ("is your number ",b,"?")
     r=input()
     if r=="b":
